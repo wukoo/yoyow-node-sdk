@@ -98,6 +98,7 @@
     如果没返回true，请检查你的uid和私钥是否正确
 
 ##### 2.4 创建平台
+升级账号为高级账号
 
     unlocked >>> create_platform yoyow账号uid "平台名称" 抵押金额 货币符号 "平台url地址" "平台拓展信息json字符串" true
 
